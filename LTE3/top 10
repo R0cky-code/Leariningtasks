@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <title>..:top 10:..</title>
+        <style type="text/css">
+            h1{
+               color: #ffffff;
+            }
+            
+            body{
+                background-color: #000;
+            }
+            .wrapper {
+                width: 1050px;
+                margin: 0 auto;
+            }
+            .cell {
+                width: 200px;
+                height: 400px;
+                margin: 3px;
+                border: 2px solid #ffffff;
+                text-align: center;
+                float: left;
+            }
+            .cell:hover {
+                background-color: #fff7f7;
+            }
+            .clear {
+                clear: both;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="wrapper">
+            <h1>My top 10 movies</h1>
+            <div class="cell">
+                <h3>Top 1</h3>
+                <img src="1234472-obsession-2025-2-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Obsession</p>
+            </div>
+            <div class="cell">
+                <h3>Top 2</h3>
+                <img src="611288-project-hail-mary-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Project hail Mary</p>
+            </div>
+            <div class="cell">
+                <h3>Top 3</h3>
+                <img src="474474-everything-everywhere-all-at-once-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Everything Everywhere All At Once</p>
+            </div>
+            <div class="cell">
+                <h3>Top 4</h3>
+                <img src="682547-nope-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Nope</p>
+            </div>
+            <div class="cell">
+                <h3>Top 5</h3>
+                <img src="1116600-sinners-2025-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Sinners</p>
+            </div>
+            <div class="cell">
+                <h3>Top 6</h3>
+                <img src="211511-the-martian-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>The Martian</p>
+            </div>
+            <div class="cell">
+                <h3>Top 7</h3>
+                <img src="353117-get-out-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Get Out</p>
+            </div>
+            <div class="cell">
+                <h3>Top 8</h3>
+                <img src="459564-midsommar-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Midsommar</p>
+            </div>
+            <div class="cell">
+                <h3>Top 9</h3>
+                <img src="641961-bullet-train-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>Bullet Train</p>
+            </div>
+            <div class="cell">
+                <h3>Top 10</h3>
+                <img src="348914-the-batman-0-1000-0-1500-crop.jpg" width="198px" border="1">
+                <p>The Batman</p>
+            </div>
+            
+            </div>
+        </div>
+    </body>
+</html>
