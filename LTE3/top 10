@@ -32,56 +32,85 @@
     <body>
         <div class="wrapper">
             <h1>My top 10 movies</h1>
-            <div class="cell">
+           <a href="https://www.imdb.com/title/tt37287335/">
+            <div class="cell" >
                 <h3>Top 1</h3>
                 <img src="1234472-obsession-2025-2-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Obsession</p>
             </div>
+            </a>
+            <a href="https://www.imdb.com/title/tt12042730/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_pro">
             <div class="cell">
                 <h3>Top 2</h3>
                 <img src="611288-project-hail-mary-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Project hail Mary</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt6710474/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_everthin">
             <div class="cell">
                 <h3>Top 3</h3>
                 <img src="474474-everything-everywhere-all-at-once-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Everything Everywhere All At Once</p>
             </div>
+            </a>
+            <a href="https://www.imdb.com/title/tt10954984/?ref_=fn_t_1">
             <div class="cell">
                 <h3>Top 4</h3>
                 <img src="682547-nope-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Nope</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt31193180/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_sinners">
             <div class="cell">
                 <h3>Top 5</h3>
                 <img src="1116600-sinners-2025-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Sinners</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt3659388/?ref_=fn_t_1">
             <div class="cell">
                 <h3>Top 6</h3>
                 <img src="211511-the-martian-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>The Martian</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt5052448/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_get">
             <div class="cell">
                 <h3>Top 7</h3>
                 <img src="353117-get-out-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Get Out</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt8772262/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_midsomma"> 
             <div class="cell">
                 <h3>Top 8</h3>
                 <img src="459564-midsommar-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Midsommar</p>
             </div>
+            </a>
+
+            <a href="https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_bullet">
             <div class="cell">
                 <h3>Top 9</h3>
                 <img src="641961-bullet-train-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>Bullet Train</p>
+
             </div>
+
+            </a>
+
+            <a href="https://www.imdb.com/title/tt1877830/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%20bat">
             <div class="cell">
                 <h3>Top 10</h3>
                 <img src="348914-the-batman-0-1000-0-1500-crop.jpg" width="198px" border="1">
                 <p>The Batman</p>
             </div>
+            </a>
             
             </div>
         </div>
