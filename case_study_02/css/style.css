@@ -1,0 +1,52 @@
+body{
+background-color: rgb(235, 235, 235);
+
+}
+#wrapper{
+    border: 1px rgb(231, 226, 226);
+    background-color: rgb(255, 255, 255);
+    min-height: 100%;
+    margin: 5px;
+}
+.header{
+    border: 1px rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    
+}
+.main-navigation{
+    background-color: rgb(42, 45, 49);
+    height:100px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.main-navigation a{
+   
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.main-navigation a:hover{
+    font-weight:bolder;
+
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+ p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+}
+ ul{
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    margin-right: 20 px;
+}
